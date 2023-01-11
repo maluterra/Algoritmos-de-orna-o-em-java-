@@ -1,0 +1,16 @@
+ Turma: Informática 3		Grupo: 04
+
+Aluna: Ana Beatriz Costa Viana - Número: 01
+
+Aluna: Ingrid Yara Alves dos Santos - Número: 15
+
+Aluna: Maria Luisa Terra Dutra - Número: 20
+
+
+* Como rodar o programa: *
+
+     Para o bom funcionamento do programa, utilize a IDE Visual Studio Code e
+  rode o arquivo "Main.java" que gerará saídas em seu terminal.
+
+     O terminal apresentará os contadores, os arquivos ordenados se encontram
+  no mesmo diretório do programa.
